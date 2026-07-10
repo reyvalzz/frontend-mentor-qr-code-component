@@ -22,6 +22,9 @@ Feed someone's code into the AI ​​-> AI evaluates it -> understand the AI's 
 Someone's code: Ray G.( rayg._86220 ), @ezra1492
 https://discord.com/channels/824970620529279006/1522341301817970830/1522341301817970830
 
+Someone else's tutorial video: 
+https://youtu.be/5BBYPntB-GY?si=UAJMFdWuhRufgHnz
+
 ## Continued development
 
 For future projects, I want to improve my understanding of building:
