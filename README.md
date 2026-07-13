@@ -51,15 +51,9 @@ Each obstacle became an opportunity to better understand frontend development co
 I'd appreciate feedback on every aspect of the project. I'm currently transitioning from a full-time career (9 - 5 PM) as a cyber security analyst or IT security analyst to pursuing remote and freelance opportunities in frontend development. Because of this career change, i'm eager to learn how experienced frontend developers structure their code, organize projects, and build production-ready applications.
 
 # Continued development
-
-For future projects, I want to improve my understanding of building:
-- Blog Preview Card
-- Social Links Profile
-- Recipe Page
-- Portofolio Website
+For future projects, I want to improve my understanding of HTML & CSS
 
 # Author
 - Frontend Mentor / Github - @reyvalzz
-- Instagram - @reyhan.valdian @rxvtus
 - Discord - @rexvitus
 - LinkedIn - Reyhan Valdian Soemarsono
