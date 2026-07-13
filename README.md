@@ -2,8 +2,8 @@
 This is a solution to the QR code component challenge on Frontend Mentor.
 
 # Links
-- Solution URL:
-- Live Site URL: 
+- Solution URL:  https://github.com/reyvalzz/frontend-mentor-qr-code-component
+- Live Site URL: https://reyvalzz.github.io/frontend-mentor-qr-code-component/
 
 # Built with
 - Semantic HTML5 markup
