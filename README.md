@@ -50,6 +50,9 @@ Each obstacle became an opportunity to better understand frontend development co
 
 I'd appreciate feedback on every aspect of the project. I'm currently transitioning from a full-time career (9 - 5 PM) as a cyber security analyst or IT security analyst to pursuing remote and freelance opportunities in frontend development. Because of this career change, i'm eager to learn how experienced frontend developers structure their code, organize projects, and build production-ready applications.
 
+# Solution Report FrontEndMentor
+<img width="1341" height="6683" alt="Solution_Report_FrontEndMentor" src="https://github.com/user-attachments/assets/d45ab7a8-2de4-40f8-9228-8932520752f3" />
+
 # Continued development
 For future projects, I want to improve my understanding of HTML & CSS
 
