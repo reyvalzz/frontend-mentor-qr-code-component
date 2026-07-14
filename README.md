@@ -12,28 +12,21 @@ This is a solution to the QR code component challenge on Frontend Mentor.
 
 # What I learned
 
-During this project, I practiced building the layout using HTML and CSS while adding basic interactivity with JavaScript.
-
+During this project, I practiced building the layout using HTML and CSS.
 I also improved my learning process by:
-Feed someone's code into the AI ​​-> AI evaluates it -> understand the AI's review -> look at the original code -> watch someone else's tutorial video -> take notes -> read the solution in the docs -> re-code it (recreated with understanding, after having gained that understanding).
-
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ce9c22e1-faa9-458f-a59c-9739adeeef6d" />
 
-Someone's code: Ray G.( rayg._86220 ), @ezra1492
-https://discord.com/channels/824970620529279006/1522341301817970830/1522341301817970830
-
-Someone else's tutorial video: 
-https://youtu.be/5BBYPntB-GY?si=UAJMFdWuhRufgHnz
-
 ## The topics that should have been covered
-  ✅ HTML structure
-  ✅ Flexbox
-  ✅ Centering
-  ✅ Border radius
-  ✅ Shadow
-  ✅ Typography
-  ✅ CSS Reset
-  ✅ Responsive Mobile Design
+  # HTML structure
+    article, main, p, img, h1-h2, head, body, meta, link, title, div
+  # CSS Custom properties
+    margin, padding, box-sizing, font-family, background-color, min-height, display, align-items, font-size, max-width, width, box-shadow,  border-status, text-align, width, color, padding-bottom, line-height
+  # Flexbox
+    justify-content
+
+  Reference:
+  https://discord.com/channels/824970620529279006/1522341301817970830/1522341301817970830
+  https://youtu.be/5BBYPntB-GY?si=UAJMFdWuhRufgHnz
 
 # Summary of Thoughtful Retrospectives 
 
